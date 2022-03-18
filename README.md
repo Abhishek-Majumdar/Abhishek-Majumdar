@@ -2,10 +2,10 @@
 
 **I currently work as a senior programmer analyst.**
 
-On this repository you will find experimentational projects around, 
-- Asynchronous programming 
-- Data science
-- Computer vision
+On this repository you will find projects around,
+- Data Structures & Algorithms
+- [POC] Asynchronous calculation
+- Infomation extraction
 - Machine Learning
 
 I am currently exploring **blockchain technology & algorithmic trading**; and would add these projects shortly. 
